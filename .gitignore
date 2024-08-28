@@ -1,4 +1,9 @@
 .bsp/
+.bloop/
+.metals/
+project/*.sbt
+project/project/**
+project/.bloop
 .idea
 target/
 project/target
